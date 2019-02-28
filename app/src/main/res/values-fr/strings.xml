@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Bonjour</string>
     <string name="world">Monde</string>
+    <string name="universe">Univers</string>
 </resources>
